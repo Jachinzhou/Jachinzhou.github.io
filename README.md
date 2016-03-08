@@ -1,2 +1,0 @@
-# Jachinzhou.github.io
-HexoBlog
